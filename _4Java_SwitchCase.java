@@ -13,6 +13,8 @@ public static void main(String[] args) {
 	break ;
 	case 40 : System.out.println("Juice");
 	break ;
+	case 50 : System.out.println("Juice");
+	break ;
 	default : System.out.println("Invalid");
 	}
 	
